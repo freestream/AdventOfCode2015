@@ -23,4 +23,4 @@ while (false !== ($char = fgetc($fp))) {
     }
 }
 
-echo "Goal floor {$floor} and Satna enter the basement at character {$baseChar}";
+echo "Deliver presents to floor {$floor} and Santa enter the basement at character {$baseChar}";
