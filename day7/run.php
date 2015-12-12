@@ -61,7 +61,7 @@ setup();
 $a = getSignal('a');
 
 setup();
-$paths['b'] = $data;
+$paths['b'] = $a;
 $b = getSignal('a');
 
 echo "The signal from 'a' ultimately ends up in {$a} and after some overriding it ends up in {$b}";
