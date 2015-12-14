@@ -1,5 +1,4 @@
 <?php
-$fp     = fopen('input', 'r');
 $first  = 0;
 $second = 0;
 
